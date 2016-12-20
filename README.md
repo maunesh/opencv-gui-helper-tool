@@ -13,6 +13,7 @@ Sample Output:
     Threshold2: 115.000000
 
 Demo:
-    https://youtu.be/xdiekchp-Uc
-    
-    [![Lane-Line-Detection](https://img.youtube.com/vi/https:/xdiekchp-Uc/0.jpg)](https://youtu.be/xdiekchp-Uc)
+   
+   https://youtu.be/xdiekchp-Uc
+
+   
