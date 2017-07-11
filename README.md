@@ -16,5 +16,8 @@ Demo:
    
    https://youtu.be/xdiekchp-Uc
 
-Licensed under the [MIT License](LICENSE).
+### License
+
+Copyright © 2016, [Maunesh Ahir](https://github.com/maunesh).
+Released under the [MIT License](LICENSE).
    
