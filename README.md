@@ -16,4 +16,5 @@ Demo:
    
    https://youtu.be/xdiekchp-Uc
 
+Licensed under the [MIT License](LICENSE).
    
